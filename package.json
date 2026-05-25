@@ -30,17 +30,18 @@
     "node": ">=20"
   },
   "devDependencies": {
-    "@types/jsdom": "^28.0.0",
-    "tsx": "^4.21.0"
+    "@types/jsdom": "^28.0.3",
+    "tsx": "^4.22.2"
   },
   "dependencies": {
-    "@notionhq/client": "^5.11.1",
+    "@notionhq/client": "^5.21.0",
     "consola": "^3.4.2",
-    "dayjs": "^1.11.19",
-    "dotenv": "^17.3.1",
-    "fast-csv": "^5.0.5",
-    "got": "^14.6.6",
-    "jsdom": "^28.1.0",
-    "rss-parser": "^3.13.0"
+    "dayjs": "^1.11.20",
+    "dotenv": "^17.4.2",
+    "fast-csv": "^5.0.7",
+    "got": "^15.0.5",
+    "jsdom": "^29.1.1",
+    "rss-parser": "^3.13.0",
+    "tough-cookie": "^6.0.1"
   }
 }
